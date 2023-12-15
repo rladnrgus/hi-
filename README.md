@@ -15,7 +15,7 @@
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@bi-sz">
+    <a href="https://velog.io/@rladnrgus">
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
     <a href="https://li-yo.tistory.com">
