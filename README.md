@@ -8,7 +8,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWookHyun&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)  
 
-[![WookHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/WookHyun/github-readme-stats)
+![rladnrgus's github stats](https://github-readme-stats.vercel.app/api?username=rladnrgus&show_icons=true)
+[![rladnrgus's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rladnrgus&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/rladnrgus)
  
 <br>
 
